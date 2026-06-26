@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Haikong Lu 👋
 
-<!--
-**Haikong-Lu1206/Haikong-Lu1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Research Assistant at HKU XLang Lab
 
-Here are some ideas to get you started:
+Exploring Vision-Language-Action Models, Computer-Using Agents, and Embodied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BASc in Applied Artificial Intelligence @ The University of Hong Kong (2024–2028)
+
+## About Me
+
+I am an undergraduate researcher interested in building reliable and generalizable AI systems for embodied intelligence.
+
+My current research focuses on:
+
+- Vision-Language-Action Models (VLA)
+- Computer-Using Agents (CUA)
+- Benchmarking & Evaluation for Foundation Models
+
+## Education
+
+**The University of Hong Kong**
+
+BASc in Applied Artificial Intelligence  
+2024 – 2028
+
+- GPA: **4.07 / 4.30**
+- Dean's Honour List (Year 1)
+- Dean's Honour List (Year 2)
+
+## Contact
+
+📧 u3629094@connect.hku.hk
