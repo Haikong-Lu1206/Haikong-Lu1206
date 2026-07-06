@@ -35,7 +35,7 @@ Mengqi Yuan*, Zilong Zhou*, Xinzhuang Xiong*, Weiming Wu, Jiayang Sun, Jiamin So
 BASc in Applied Artificial Intelligence  
 2024 – 2028
 
-- GPA: **4.07 / 4.30**
+- CGPA: **4.07 / 4.30**
 - Dean's Honour List (Year 1)
 - Dean's Honour List (Year 2)
 
