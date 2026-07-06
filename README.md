@@ -1,6 +1,6 @@
 # Hi, I'm Haikong Lu 👋
 
-Undergraduate Research Assistant at HKU XLang Lab
+Undergraduate Research Assistant at HKU XLang Lab, supervised by Prof. Tao Yu.
 
 Exploring Vision-Language-Action Models, Computer-Using Agents, and Embodied AI.
 
